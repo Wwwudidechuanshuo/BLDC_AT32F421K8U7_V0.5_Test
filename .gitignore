@@ -1,0 +1,15 @@
+# Keil build outputs
+Objects/
+Listings/
+
+# Keil per-user settings
+*.uvguix.*
+
+# Build logs
+build_*.log
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
